@@ -1,0 +1,1 @@
+This is the repository that contains rayapapaya's solutions for NodeSchool's "how to npm" adventure. Thank you for visiting!
